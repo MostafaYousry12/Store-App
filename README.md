@@ -1,16 +1,49 @@
-# store_app
+# 🛒 Store App (Flutter)
 
-A new Flutter project.
+A simple Flutter store application that fetches product data from [FakeStoreAPI](https://fakestoreapi.com/) and displays it in a clean UI. Built mainly for learning and practice purposes.
 
-## Getting Started
+![Demo Screenshot](link-to-screenshot-if-you-have-one)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Fetch products from REST API (FakeStoreAPI)
+- ✅ Display products in scrollable cards
+- ✅ Navigate to a detail/edit screen (product editing supported)
+- ⚙️ Clean and simple UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📦 Packages Used
+
+- [`http`](https://pub.dev/packages/http) – for networking (API calls)
+
+---
+
+## 📷 Screenshots
+
+> _Add screenshots here if available: home screen, product card, edit screen, etc._
+
+---
+
+## 🧠 What I Learned
+
+- Working with REST APIs in Flutter
+- Parsing JSON data
+- State handling using `setState`
+- Navigation and passing data between screens
+- Clean project structure
+
+---
+
+## 📂 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/MostafaYousry12/Store-App.git
+cd Store-App
+flutter pub get
+flutter run
+```
