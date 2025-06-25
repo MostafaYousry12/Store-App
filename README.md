@@ -2,8 +2,6 @@
 
 A simple Flutter store application that fetches product data from [FakeStoreAPI](https://fakestoreapi.com/) and displays it in a clean UI. Built mainly for learning and practice purposes.
 
-![Demo Screenshot](link-to-screenshot-if-you-have-one)
-
 ---
 
 ## 🚀 Features
