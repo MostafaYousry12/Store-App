@@ -21,9 +21,7 @@ A simple Flutter store application that fetches product data from [FakeStoreAPI]
 
 ## 📷 Screenshots
 
-> _Add screenshots here if available: home screen, product card, edit screen, etc._
-
----
+https://drive.google.com/drive/u/2/folders/1d9k4xJrt14sYSrcYXfm2BRRXSAf_pOU7
 
 ## 🧠 What I Learned
 
